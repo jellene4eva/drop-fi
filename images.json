@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "bus.png",
+	"frame": {"x":0,"y":0,"w":448,"h":297},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":448,"h":297},
+	"sourceSize": {"w":448,"h":297}
+},
+{
+	"filename": "car.png",
+	"frame": {"x":0,"y":297,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "train.png",
+	"frame": {"x":256,"y":297,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "words.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":553},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dc0483cc5b1ce514900c7a1cf8f3e96e:d3024724851048aee1d0d5231529fef1:1b15c8ea7ba697f2d18004049ffb9a3c$"
+}
+}

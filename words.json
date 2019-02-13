@@ -1,0 +1,14 @@
+{
+    "train": {
+        "fi": "juna",
+        "en": "train"
+    },
+    "bus": {
+        "fi": "bussi",
+        "en": "bus"
+    },
+    "car": {
+        "fi": "auto",
+        "en": "car"
+    }
+}
